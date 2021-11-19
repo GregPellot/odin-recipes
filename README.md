@@ -1,1 +1,1 @@
-# odin-recipes
+This project will incorporate all I have learned about HTML so far, including setting up an HTML file, adding headers, paragraphs, lists, images and links.
